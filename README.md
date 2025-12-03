@@ -1,4 +1,4 @@
- # Sistema de Vendas – Projeto SQL (Faculdade)
+ # Sistema de Vendas – Projeto SQL 
 
 Este projeto foi desenvolvido como exercício da disciplina Modelagem de Software, no 2º período da faculdade, com o objetivo de praticar criação de tabelas, relacionamentos e consultas SQL. O sistema simula um pequeno cenário de Clientes e Pedidos, permitindo explorar conceitos essenciais de banco de dados.
 
